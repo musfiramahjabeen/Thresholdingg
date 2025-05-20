@@ -19,8 +19,8 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 
 ## Program
 ```
-NAME : AADHITHYA.M
-REG : 212222100001
+NAME : MUSFIRA MAHJABEEN M
+REG : 212223230130
 ```
 
 ```python
